@@ -1,0 +1,15 @@
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\bin\Debug\net6.0\Lesson1_task _3.exe
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\bin\Debug\net6.0\Lesson1_task _3.deps.json
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\bin\Debug\net6.0\Lesson1_task _3.runtimeconfig.json
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\bin\Debug\net6.0\Lesson1_task _3.dll
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\bin\Debug\net6.0\ref\Lesson1_task _3.dll
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\bin\Debug\net6.0\Lesson1_task _3.pdb
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\obj\Debug\net6.0\Lesson1_task _3.csproj.AssemblyReference.cache
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\obj\Debug\net6.0\Lesson1_task _3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\obj\Debug\net6.0\Lesson1_task _3.AssemblyInfoInputs.cache
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\obj\Debug\net6.0\Lesson1_task _3.AssemblyInfo.cs
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\obj\Debug\net6.0\Lesson1_task _3.csproj.CoreCompileInputs.cache
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\obj\Debug\net6.0\Lesson1_task _3.dll
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\obj\Debug\net6.0\ref\Lesson1_task _3.dll
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\obj\Debug\net6.0\Lesson1_task _3.pdb
+G:\Projects\Study\c#\Sudy_c#\Console\Lesson1_task _3\obj\Debug\net6.0\Lesson1_task _3.genruntimeconfig.cache
