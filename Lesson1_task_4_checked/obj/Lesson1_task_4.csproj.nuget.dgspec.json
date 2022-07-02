@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Projects\\Study\\c#\\Sudy_c#\\Console\\Lesson1_task_4\\Lesson1_task_4.csproj": {}
+    "G:\\Projects\\Study\\c#\\Sudy_c#\\Console\\Lesson1_task_4_checked\\Lesson1_task_4.csproj": {}
   },
   "projects": {
-    "G:\\Projects\\Study\\c#\\Sudy_c#\\Console\\Lesson1_task_4\\Lesson1_task_4.csproj": {
+    "G:\\Projects\\Study\\c#\\Sudy_c#\\Console\\Lesson1_task_4_checked\\Lesson1_task_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\Study\\c#\\Sudy_c#\\Console\\Lesson1_task_4\\Lesson1_task_4.csproj",
+        "projectUniqueName": "G:\\Projects\\Study\\c#\\Sudy_c#\\Console\\Lesson1_task_4_checked\\Lesson1_task_4.csproj",
         "projectName": "Lesson1_task_4",
-        "projectPath": "G:\\Projects\\Study\\c#\\Sudy_c#\\Console\\Lesson1_task_4\\Lesson1_task_4.csproj",
+        "projectPath": "G:\\Projects\\Study\\c#\\Sudy_c#\\Console\\Lesson1_task_4_checked\\Lesson1_task_4.csproj",
         "packagesPath": "C:\\Users\\kot2d\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\Study\\c#\\Sudy_c#\\Console\\Lesson1_task_4\\obj\\",
+        "outputPath": "G:\\Projects\\Study\\c#\\Sudy_c#\\Console\\Lesson1_task_4_checked\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kot2d\\AppData\\Roaming\\NuGet\\NuGet.Config"
