@@ -18,4 +18,4 @@ double x2 = Convert.ToDouble(Console.ReadLine());
 double y2 = Convert.ToDouble(Console.ReadLine());
 double z2 = Convert.ToDouble(Console.ReadLine());
 
-System.Console.WriteLine("Введенн число это палиндромом: " + calcDistance(x1, y1, z1, x2, y2, z2));
+System.Console.WriteLine("Дистанция: " + calcDistance(x1, y1, z1, x2, y2, z2));
