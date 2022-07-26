@@ -1,0 +1,15 @@
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\obj\Debug\net6.0\Lesson3_task_3.csproj.AssemblyReference.cache
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\obj\Debug\net6.0\Lesson3_task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\obj\Debug\net6.0\Lesson3_task_3.AssemblyInfoInputs.cache
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\obj\Debug\net6.0\Lesson3_task_3.AssemblyInfo.cs
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\obj\Debug\net6.0\Lesson3_task_3.csproj.CoreCompileInputs.cache
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\bin\Debug\net6.0\Lesson3_task_3.exe
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\bin\Debug\net6.0\Lesson3_task_3.deps.json
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\bin\Debug\net6.0\Lesson3_task_3.runtimeconfig.json
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\bin\Debug\net6.0\Lesson3_task_3.dll
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\bin\Debug\net6.0\Lesson3_task_3.pdb
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\obj\Debug\net6.0\Lesson3_task_3.dll
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\obj\Debug\net6.0\refint\Lesson3_task_3.dll
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\obj\Debug\net6.0\Lesson3_task_3.pdb
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\obj\Debug\net6.0\Lesson3_task_3.genruntimeconfig.cache
+C:\Data\Projects\Stydy\C#\Lesson3_task_3\obj\Debug\net6.0\ref\Lesson3_task_3.dll
