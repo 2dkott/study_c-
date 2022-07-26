@@ -41,4 +41,4 @@ void printDoubleArrayElementValue(int verticalPosition, int horizontalPosition, 
 
 int[,] doubleArray = generateDoubleArray(-10, 10, 5, 5);
 printArray(doubleArray);
-printDoubleArrayElementValue(4, -4, doubleArray);
+printDoubleArrayElementValue(4, 4, doubleArray);
